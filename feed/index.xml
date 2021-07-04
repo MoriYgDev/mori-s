@@ -12,12 +12,20 @@
 	<atom:link href="https://moriygdev.github.io/mori-s/feed/" rel="self" type="application/rss+xml" />
 	<link>https://moriygdev.github.io/mori-s</link>
 	<description>Hello world!</description>
-	<lastBuildDate>Sun, 04 Jul 2021 12:25:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 13:01:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://moriygdev.github.io/mori-s/wp-content/uploads/2021/07/androidwavinghand.svg</url>
+	<title>mori&#039;s</title>
+	<link>https://moriygdev.github.io/mori-s</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
